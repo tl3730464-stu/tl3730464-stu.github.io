@@ -1,5 +1,6 @@
 facebook.com, 1628327730754812, DIRECT, c3e20eee3f780d68
 google.com, pub-7529800677506929, DIRECT, f08c47fec0942fa0
+google.com, pub-7171269809080077, DIRECT, f08c47fec0942fa0
 admatic.com.tr, adm-pub-3033566192, DIRECT
 admixer.net, 142f7ae2-b259-439a-801d-0b1146b8518d, DIRECT
 admixer.net, f6790c61-b9ce-49b0-b809-059710d60dfd, DIRECT
